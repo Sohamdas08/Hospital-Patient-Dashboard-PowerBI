@@ -26,6 +26,12 @@ All measures and calculated tables are available in:
 ---
 
 ## 📊 Dashboard Preview
+### Overview
+<img width="1407" height="784" alt="Screenshot 2026-04-30 121600" src="https://github.com/user-attachments/assets/74af29b3-52a2-49ef-82d3-821ee49a317c" />
+
+### Interactive Filter (Dropdown Slicer)
+<img width="1406" height="786" alt="Screenshot 2026-04-30 121328" src="https://github.com/user-attachments/assets/a2e85dc1-cc3d-480e-8490-bdce672dfa0f" />
+
 
 
 ---
@@ -46,4 +52,7 @@ All measures and calculated tables are available in:
 ---
 
 ## 👨‍💻 Author
-Soham Das
+Soham Das 
+Aspiring Data Analyst | SQL | Power BI | Excel 
+📍 India 📧 [dassoham63@gmail.com] 
+🔗 LinkedIn Profile (https://www.linkedin.com/in/soham-das-884a1a315/)
